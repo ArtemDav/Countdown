@@ -1,4 +1,4 @@
 # Countdown
 Countdown on Python
 
-![Alt text](https://pp.userapi.com/c857624/v857624969/108a4/J9l5uCr6g9o.jpg)
+![Alt text](https://pp.userapi.com/c854120/v854120969/8e32e/lUy8C5jtTSM.jpg)
