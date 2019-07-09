@@ -9,7 +9,7 @@ def main():
         hour = time // 3600
         minutes = (time - hour * 3600) // 60
         seconds = time % 60
-        print(Fore.GREEN + str(hour) + " ч. " + str(minutes) + " мин. " + str(seconds) + " сек.")
+        print(Fore.GREEN + str(hour) + " h. " + str(minutes) + " m. " + str(seconds) + " s.")
         time += 1
         sleep(1)
         system("cls")
